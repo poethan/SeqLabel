@@ -14,3 +14,10 @@ some projects of Sequence labelling tasks or papers, especially for Chinese lang
 
 => [ https://www.slideshare.net/AaronHanLiFeng/chinese-named-entity-recognition-presentationaaron-li-feng-han201306?qid=450419d5-97d6-4f44-b0dc-cc548b172296&v=&b=&from_search=1]
 
+
+
+European Languages:
+
+\< "Detection of Verbal Multi-Word Expressions via Conditional Random Fields with Syntactic Dependency Features and Semantic Re-Ranking" >
+
+=> [https://github.com/alfredomg/ADAPT-MWE17]
